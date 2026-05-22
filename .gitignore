@@ -1,0 +1,6 @@
+build/
+__pycache__/
+*.py[cod]
+*.log
+test_input.json
+test_output.json
